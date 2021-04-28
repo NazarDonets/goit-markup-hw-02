@@ -1,1 +1,1 @@
-# https://nazardonets.github.io/
+# https://nazardonets.github.io/goit-markup-hw-02/
